@@ -8,7 +8,7 @@
 
     ---
 
-# This project is a partial proof-of-concept implementation inspired by J. Jeon, B. Jeong, S. Baek, and Y.-S. Jeong, "Static Multi Feature-Based Malware Detection Using Multi SPP-net in Smart IoT Environments," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 2487–2500, 2024 (https://ieeexplore.ieee.org/document/10381842/). The original work extracts five static features (bytes, opcodes, API calls, strings, and DLLs); this implementation reproduces the approach using two — byte and opcode images — as a scoped-down proof of concept. This repository contains an independent proof-of-concept implementation developed during my AI/ML Research Internship at the Centre for Development of Advanced Computing (C-DAC). The implementation is inspired by the following research paper...
+This project is a partial proof-of-concept implementation inspired by J. Jeon, B. Jeong, S. Baek, and Y.-S. Jeong, "Static Multi Feature-Based Malware Detection Using Multi SPP-net in Smart IoT Environments," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 2487–2500, 2024 (https://ieeexplore.ieee.org/document/10381842/). The original work extracts five static features (bytes, opcodes, API calls, strings, and DLLs); this implementation reproduces the approach using two — byte and opcode images — as a scoped-down proof of concept. This repository contains an independent proof-of-concept implementation developed during my AI/ML Research Internship at the Centre for Development of Advanced Computing (C-DAC). The implementation is inspired by the following research paper...
 
     ## Table of Contents
 
