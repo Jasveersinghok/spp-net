@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data & artifacts (large / private — not committed)
+df_with_opcodes.pkl
+fasttext_opcode.model*
+new_epochs/
+*.pt
+*.bin
+
+# Datasets
+dataset_bytes/
+dataset_asm/
+
+# Environment
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
